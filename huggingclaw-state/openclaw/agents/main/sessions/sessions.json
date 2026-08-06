@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "284cf1cf-6128-4cd0-8d21-9fa614752cc5",
-    "updatedAt": 1786013621751,
+    "updatedAt": 1786013657669,
     "sessionStartedAt": 1785991746539,
     "systemSent": true,
     "chatType": "direct",
@@ -68,7 +68,7 @@
         "bytes": 4872
       }
     },
-    "lastInteractionAt": 1786013621750,
+    "lastInteractionAt": 1786013657668,
     "route": {
       "channel": "webchat"
     },
@@ -81,9 +81,6 @@
       "surface": "webchat",
       "chatType": "direct"
     },
-    "modelProvider": "openrouter",
-    "model": "poolside/laguna-s-2.1:free",
-    "contextTokens": 262144,
     "systemPromptReport": {
       "source": "run",
       "generatedAt": 1785993153788,
@@ -513,6 +510,7 @@
     "estimatedCostUsd": 0,
     "authProfileOverride": "kilocode:manual",
     "authProfileOverrideSource": "auto",
-    "authProfileOverrideCompactionCount": 0
+    "authProfileOverrideCompactionCount": 0,
+    "liveModelSwitchPending": true
   }
 }
