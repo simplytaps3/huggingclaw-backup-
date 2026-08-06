@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "284cf1cf-6128-4cd0-8d21-9fa614752cc5",
-    "updatedAt": 1786014340074,
+    "updatedAt": 1786014662740,
     "sessionStartedAt": 1785991746539,
     "systemSent": true,
     "chatType": "direct",
@@ -59,7 +59,7 @@
           "name": "weather"
         }
       ],
-      "version": 1786005825252,
+      "version": 1786014394452,
       "promptFormatVersion": 1,
       "promptRef": {
         "version": 1,
@@ -68,7 +68,7 @@
         "bytes": 4872
       }
     },
-    "lastInteractionAt": 1786014339415,
+    "lastInteractionAt": 1786014662739,
     "route": {
       "channel": "webchat"
     },
@@ -511,11 +511,6 @@
     "authProfileOverride": "kilocode:manual",
     "authProfileOverrideSource": "auto",
     "authProfileOverrideCompactionCount": 0,
-    "liveModelSwitchPending": true,
-    "status": "failed",
-    "startedAt": 1786014339890,
-    "endedAt": 1786014339890,
-    "runtimeMs": 0,
-    "abortedLastRun": false
+    "liveModelSwitchPending": true
   }
 }
