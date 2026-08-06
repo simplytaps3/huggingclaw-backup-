@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "284cf1cf-6128-4cd0-8d21-9fa614752cc5",
-    "updatedAt": 1785996877317,
+    "updatedAt": 1785997594637,
     "sessionStartedAt": 1785991746539,
     "systemSent": true,
     "chatType": "direct",
@@ -59,7 +59,7 @@
           "name": "weather"
         }
       ],
-      "version": 1785996806946,
+      "version": 1785997209842,
       "promptFormatVersion": 1,
       "promptRef": {
         "version": 1,
@@ -68,7 +68,7 @@
         "bytes": 4872
       }
     },
-    "lastInteractionAt": 1785996873945,
+    "lastInteractionAt": 1785997594216,
     "route": {
       "channel": "webchat"
     },
@@ -511,10 +511,6 @@
     "cacheRead": 0,
     "cacheWrite": 0,
     "estimatedCostUsd": 0,
-    "status": "failed",
-    "startedAt": 1785996877074,
-    "endedAt": 1785996877074,
-    "runtimeMs": 0,
-    "abortedLastRun": false
+    "restartRecoveryDeliveryRunId": "e944ad8c-4ad5-45fb-8735-20de364a14ad"
   }
 }
