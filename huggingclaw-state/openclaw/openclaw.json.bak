@@ -115,17 +115,5 @@
       "--disable-notifications",
       "--disable-speech-api"
     ]
-  },
-  "auth": {
-    "profiles": {
-      "kilocode:manual": {
-        "provider": "kilocode",
-        "mode": "api_key"
-      }
-    }
-  },
-  "meta": {
-    "lastTouchedVersion": "2026.7.1",
-    "lastTouchedAt": "2026-08-06T08:43:44.464Z"
   }
 }
