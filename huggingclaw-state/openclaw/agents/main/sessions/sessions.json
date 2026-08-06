@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "284cf1cf-6128-4cd0-8d21-9fa614752cc5",
-    "updatedAt": 1786013657669,
+    "updatedAt": 1786005311190,
     "sessionStartedAt": 1785991746539,
     "systemSent": true,
     "chatType": "direct",
@@ -59,7 +59,7 @@
           "name": "weather"
         }
       ],
-      "version": 1786005825252,
+      "version": 1786004724204,
       "promptFormatVersion": 1,
       "promptRef": {
         "version": 1,
@@ -68,7 +68,7 @@
         "bytes": 4872
       }
     },
-    "lastInteractionAt": 1786013657668,
+    "lastInteractionAt": 1786005311184,
     "route": {
       "channel": "webchat"
     },
@@ -81,6 +81,9 @@
       "surface": "webchat",
       "chatType": "direct"
     },
+    "modelProvider": "openrouter",
+    "model": "poolside/laguna-s-2.1:free",
+    "contextTokens": 262144,
     "systemPromptReport": {
       "source": "run",
       "generatedAt": 1785993153788,
@@ -507,10 +510,6 @@
     "outputTokens": 769,
     "cacheRead": 0,
     "cacheWrite": 0,
-    "estimatedCostUsd": 0,
-    "authProfileOverride": "kilocode:manual",
-    "authProfileOverrideSource": "auto",
-    "authProfileOverrideCompactionCount": 0,
-    "liveModelSwitchPending": true
+    "estimatedCostUsd": 0
   }
 }
