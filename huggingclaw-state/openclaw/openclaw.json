@@ -85,7 +85,7 @@
   },
   "agents": {
     "defaults": {
-      "model": "kilocode/tencent/hy3:free",
+      "model": "kilobridge/poolside/laguna-m.1:free",
       "sandbox": {
         "browser": {
           "allowHostControl": true
@@ -115,17 +115,5 @@
       "--disable-notifications",
       "--disable-speech-api"
     ]
-  },
-  "auth": {
-    "profiles": {
-      "kilocode:manual": {
-        "provider": "kilocode",
-        "mode": "api_key"
-      }
-    }
-  },
-  "meta": {
-    "lastTouchedVersion": "2026.7.1",
-    "lastTouchedAt": "2026-08-06T08:43:44.464Z"
   }
 }
