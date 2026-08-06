@@ -85,11 +85,17 @@
   },
   "agents": {
     "defaults": {
-      "model": "kilobridge/poolside/laguna-m.1:free",
+      "model": {
+        "primary": "kilocode/tencent/hy3:free"
+      },
       "sandbox": {
         "browser": {
           "allowHostControl": true
         }
+      },
+      "workspace": "/home/node/.openclaw/workspace",
+      "models": {
+        "kilocode/tencent/hy3:free": {}
       }
     }
   },
@@ -115,5 +121,33 @@
       "--disable-notifications",
       "--disable-speech-api"
     ]
+  },
+  "auth": {
+    "profiles": {
+      "kilocode:manual": {
+        "provider": "kilocode",
+        "mode": "api_key"
+      }
+    }
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.7.1",
+    "lastTouchedAt": "2026-08-06T11:02:50.123Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-08-06T10:53:13.186Z",
+    "lastRunVersion": "2026.7.1",
+    "lastRunCommand": "configure",
+    "lastRunMode": "local"
+  },
+  "tools": {
+    "web": {
+      "search": {
+        "enabled": false
+      },
+      "fetch": {
+        "enabled": true
+      }
+    }
   }
 }
