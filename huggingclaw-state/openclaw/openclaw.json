@@ -85,7 +85,7 @@
   },
   "agents": {
     "defaults": {
-      "model": "kilocode/tencent/hy3:free",
+      "model": "kilocode/poolside/laguna-m.1:free",
       "sandbox": {
         "browser": {
           "allowHostControl": true
