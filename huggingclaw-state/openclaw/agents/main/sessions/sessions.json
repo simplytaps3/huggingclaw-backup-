@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "284cf1cf-6128-4cd0-8d21-9fa614752cc5",
-    "updatedAt": 1785992738660,
+    "updatedAt": 1785993146347,
     "sessionStartedAt": 1785991746539,
     "systemSent": true,
     "chatType": "direct",
@@ -68,7 +68,7 @@
         "bytes": 4842
       }
     },
-    "lastInteractionAt": 1785992735491,
+    "lastInteractionAt": 1785993146345,
     "route": {
       "channel": "webchat"
     },
@@ -80,11 +80,6 @@
       "provider": "webchat",
       "surface": "webchat",
       "chatType": "direct"
-    },
-    "status": "failed",
-    "startedAt": 1785992737252,
-    "abortedLastRun": false,
-    "endedAt": 1785992738627,
-    "runtimeMs": 1375
+    }
   }
 }
