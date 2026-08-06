@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "284cf1cf-6128-4cd0-8d21-9fa614752cc5",
-    "updatedAt": 1786016702030,
+    "updatedAt": 1786016702979,
     "sessionStartedAt": 1785991746539,
     "systemSent": true,
     "chatType": "direct",
@@ -512,6 +512,10 @@
     "authProfileOverrideSource": "auto",
     "authProfileOverrideCompactionCount": 0,
     "liveModelSwitchPending": true,
-    "restartRecoveryDeliveryRunId": "a56c61b6-c864-4c9c-84f6-932ca458c91c"
+    "status": "failed",
+    "startedAt": 1786016702702,
+    "endedAt": 1786016702702,
+    "runtimeMs": 0,
+    "abortedLastRun": false
   }
 }
