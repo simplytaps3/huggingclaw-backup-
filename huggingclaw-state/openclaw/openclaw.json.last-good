@@ -85,7 +85,7 @@
   },
   "agents": {
     "defaults": {
-      "model": "openrouter/poolside/laguna-m.1:free",
+      "model": "openrouter/poolside/laguna-s-2.1:free",
       "sandbox": {
         "browser": {
           "allowHostControl": true
