@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "284cf1cf-6128-4cd0-8d21-9fa614752cc5",
-    "updatedAt": 1786013789396,
+    "updatedAt": 1786014220918,
     "sessionStartedAt": 1785991746539,
     "systemSent": true,
     "chatType": "direct",
@@ -68,7 +68,7 @@
         "bytes": 4872
       }
     },
-    "lastInteractionAt": 1786013788748,
+    "lastInteractionAt": 1786014220137,
     "route": {
       "channel": "webchat"
     },
@@ -513,8 +513,8 @@
     "authProfileOverrideCompactionCount": 0,
     "liveModelSwitchPending": true,
     "status": "failed",
-    "startedAt": 1786013789185,
-    "endedAt": 1786013789185,
+    "startedAt": 1786014220695,
+    "endedAt": 1786014220694,
     "runtimeMs": 0,
     "abortedLastRun": false
   }
