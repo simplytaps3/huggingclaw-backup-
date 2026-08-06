@@ -132,10 +132,10 @@
   },
   "meta": {
     "lastTouchedVersion": "2026.7.1",
-    "lastTouchedAt": "2026-08-06T11:09:40.986Z"
+    "lastTouchedAt": "2026-08-06T11:56:28.907Z"
   },
   "wizard": {
-    "lastRunAt": "2026-08-06T11:09:40.858Z",
+    "lastRunAt": "2026-08-06T11:56:28.760Z",
     "lastRunVersion": "2026.7.1",
     "lastRunCommand": "configure",
     "lastRunMode": "local"
