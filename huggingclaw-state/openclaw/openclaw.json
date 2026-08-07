@@ -85,7 +85,9 @@
   },
   "agents": {
     "defaults": {
-      "model": "kilocode/tencent/hy3:free",
+      "model": {
+        "primary": "kilocode/tencent/hy3:free"
+      },
       "sandbox": {
         "browser": {
           "allowHostControl": true
